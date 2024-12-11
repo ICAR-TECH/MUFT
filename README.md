@@ -1,7 +1,6 @@
-# MUFT
-Multiplier-based Unfolding Transformation of Survey Data for Machine Learning-based Modelling
+# MUFT: Multiplier-based Unfolding Transformation of Survey Data for Machine Learning-based Modelling
 
-## MUFT: Multiplier-based Unfolding Transformation of Survey Data for Machine Learning-based Modelling
+## Website link: https://icar-tech.github.io/MUFT/
 
 ## Download MUFT software for windows : https://drive.google.com/file/d/1rj8moC71U7jyJsIEdmiDwu9fhwJ96k87/view?usp=sharing 
 
