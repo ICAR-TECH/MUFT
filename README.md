@@ -11,6 +11,6 @@
 ## Tutorial Video on how to use the MUFT simulation script : https://drive.google.com/file/d/1Hr8LIAX_rscDdl_2WjBx0BPPoiAB6nKV/view?usp=sharing
 
 ### Developed By:
-ICAR-IASRI, New Delhi, India.
+Dr. Samarth Godara, ICAR-IASRI, New Delhi, India.
 
 Support Email: samarth.godara@gmail.com
